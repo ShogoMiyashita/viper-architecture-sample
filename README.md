@@ -4,4 +4,5 @@
 
 VIPERの基本構成については下記の通りである。
 
-<img width="594" alt="スクリーンショット 2024-07-27 18 10 19" src="https://github.com/user-attachments/assets/1256c1ab-16b4-428a-8a96-57e5a5f1a783">
+<img width="576" alt="スクリーンショット 2024-07-27 18 23 58" src="https://github.com/user-attachments/assets/8005f7bc-c4d1-46ad-aa6f-25508af95e14">
+
