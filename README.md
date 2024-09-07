@@ -1,4 +1,4 @@
-# viper-architecture-sumple
+# viper-architecture-sample
 
 本リポジトリはVIPERアーキテクチャ及びUnitTestの学習用のサンプルである。
 
