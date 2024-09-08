@@ -43,4 +43,5 @@ VIPERの基本構成については下記の通り。
 ## 使用ライブラリ
 - Alamofire: API通信に利用
 - ProgressHUD: 通信中のローディングに利用
-- SwiftLint: 静的解析ツール。基本的な文法やコーディング規約のチェックに使用。
+- SwiftLint: 静的解析ツール
+- SwiftFormat: 自動整形フォーマット用ツール
