@@ -3,24 +3,28 @@ PODS:
   - SVProgressHUD (2.3.1):
     - SVProgressHUD/Core (= 2.3.1)
   - SVProgressHUD/Core (2.3.1)
+  - SwiftFormat/CLI (0.54.4)
   - SwiftLint (0.56.2)
 
 DEPENDENCIES:
   - Alamofire (= 5.9.1)
   - SVProgressHUD (= 2.3.1)
+  - SwiftFormat/CLI (~> 0.54)
   - SwiftLint (= 0.56.2)
 
 SPEC REPOS:
   trunk:
     - Alamofire
     - SVProgressHUD
+    - SwiftFormat
     - SwiftLint
 
 SPEC CHECKSUMS:
   Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
   SVProgressHUD: 4837c74bdfe2e51e8821c397825996a8d7de6e22
+  SwiftFormat: afdb0b6cea838a0933cd744048d0a206ccbcb2c4
   SwiftLint: bd7cfb914762ab5f0cbb632964849571db075706
 
-PODFILE CHECKSUM: 37c599efaa2c08f832fdd18a35f3693a04c0e36b
+PODFILE CHECKSUM: 873167f99f7cdb0c3612448cc794ac79637eee26
 
-COCOAPODS: 1.14.3
+COCOAPODS: 1.15.2
