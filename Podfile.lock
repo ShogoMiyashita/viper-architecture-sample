@@ -1,5 +1,6 @@
 PODS:
   - Alamofire (5.9.1)
+  - R.swift (7.3.2)
   - SVProgressHUD (2.3.1):
     - SVProgressHUD/Core (= 2.3.1)
   - SVProgressHUD/Core (2.3.1)
@@ -8,6 +9,7 @@ PODS:
 
 DEPENDENCIES:
   - Alamofire (= 5.9.1)
+  - R.swift (= 7.3.2)
   - SVProgressHUD (= 2.3.1)
   - SwiftFormat/CLI (~> 0.54)
   - SwiftLint (= 0.56.2)
@@ -15,16 +17,18 @@ DEPENDENCIES:
 SPEC REPOS:
   trunk:
     - Alamofire
+    - R.swift
     - SVProgressHUD
     - SwiftFormat
     - SwiftLint
 
 SPEC CHECKSUMS:
   Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  R.swift: 0af0d882f49f03711415cb4e5215daa977d8a480
   SVProgressHUD: 4837c74bdfe2e51e8821c397825996a8d7de6e22
   SwiftFormat: afdb0b6cea838a0933cd744048d0a206ccbcb2c4
   SwiftLint: bd7cfb914762ab5f0cbb632964849571db075706
 
-PODFILE CHECKSUM: 873167f99f7cdb0c3612448cc794ac79637eee26
+PODFILE CHECKSUM: 095c42740e49eab5017c1b8fd17102fa4a5d85f7
 
 COCOAPODS: 1.15.2

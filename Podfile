@@ -6,6 +6,7 @@ target 'ViperArchitectureSample' do
   use_frameworks!
   pod 'Alamofire', '5.9.1'
   pod 'SVProgressHUD', '2.3.1'
+  pod 'R.swift', '7.3.2'
   pod 'SwiftLint', '0.56.2'
   pod 'SwiftFormat/CLI', '~> 0.54'
 
